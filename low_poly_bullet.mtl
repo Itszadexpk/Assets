@@ -1,0 +1,25 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl Gold
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.1658747241121427
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 0.792676066466701 0
+Ke 0 0 0
+
+newmtl Red_Metal
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 0.15371437778547933
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 0 0
+Ke 0 0 0
